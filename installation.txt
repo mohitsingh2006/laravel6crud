@@ -1,0 +1,2 @@
+1) Paste folder in your htdocs folder.
+2) Create database and Import "laravel6crud.sql" file in database
